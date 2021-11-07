@@ -1,7 +1,8 @@
  # 소개
  Updating..
 
-![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=jjun3511)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jjun6912)](https://solved.ac/jjun6912)
 
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=F-hiller)](https://github.com/anuraghazra/github-readme-stats)
 
