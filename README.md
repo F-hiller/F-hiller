@@ -1,4 +1,4 @@
- # 소개
+ # Informations
  Updating..
  
 - 🔭 I’m currently working on Korea National University - [Computer Science and Engineering.](https://computer.knu.ac.kr/main/)
