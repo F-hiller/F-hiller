@@ -1,7 +1,7 @@
  # Informations
  Updating..
  
-- 🔭 I’m currently working on Korea National University - [Computer Science and Engineering.](https://computer.knu.ac.kr/main/)
+- 🔭 I’m currently working on Kyungpook National University - [Computer Science and Engineering.](https://computer.knu.ac.kr/main/)
 - 🌱 I’m currently learning about Node Js, C++.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
