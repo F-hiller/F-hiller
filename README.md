@@ -6,7 +6,7 @@
  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=F-hiller&theme=dracula&hide=Procfile&layout=compact&langs_count=8"/>
 
 
-- 🔭 Kyungpook National University : [Computer Science and Engineering.](https://computer.knu.ac.kr/main/)  
+- 🔭 Kyungpook National University : [Computer Science and Engineering.](https://computer.knu.ac.kr/)  
 - 🔭 Problem Solving Blog : [F-hiller's blog](https://f-hiller.github.io/)
 <br>
 <br>
